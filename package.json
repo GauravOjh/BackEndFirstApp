@@ -1,0 +1,27 @@
+{
+  "name": "backendfirstapp",
+  "version": "1.0.0",
+  "description": "Firstapplicationusinhnodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravOjh/BackEndFirstApp.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Gaurav ojha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravOjh/BackEndFirstApp/issues"
+  },
+  "homepage": "https://github.com/GauravOjh/BackEndFirstApp#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
